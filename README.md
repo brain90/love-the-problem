@@ -1,7 +1,7 @@
 # love-the-problem
 Koleksi high complexities problem sebagai bahan permainan
 
-* Multi tenancy With High Volume.
+* Multi tenancy With High Volume Trx.
   -  Pooled vs Isolated
   -  10 tenant vs 1K tenant vs 1M tenant
   -  Noisy neighbour problem
