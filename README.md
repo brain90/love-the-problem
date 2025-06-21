@@ -10,3 +10,7 @@ Koleksi high complexities problem sebagai bahan permainan
       - as cheap as possibles in terms of h/w resources, apps features modifications (DDL, etc, etc) 
       - as little as human engineer needed. 
  
+# How to Love the problem
+- Competitive Programming
+  - Dipaksa dan terbiasa menghadapi ragam pola complexities dgn highly constraint
+  - Dipaksa dan terbiasa mendesain algoritma yang baik
